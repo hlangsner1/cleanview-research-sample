@@ -33,7 +33,7 @@ QTS has a documented pattern of local planning board friction when proposing sec
 
 ---
 
-## Financing Context (Neutral Note)
+## Financing Context (Greenbond Context Note)
 
 QTS announced in April 2026 that it was marketing a **$4.6B financing package**, beginning with a 10-year bond marketed as **investment-grade green debt** (Moody's Baa2 rating; arranged by JPMorgan, Goldman Sachs, Wells Fargo, and SMBC Nikko).
 
