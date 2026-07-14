@@ -1,0 +1,58 @@
+{
+  "facility_name": "QTS Piscataway (proposed 2nd facility)",
+  "developer": "QTS Data Centers",
+  "owner": "Funds managed by Blackstone (acquired QTS Realty Trust Aug 31, 2021)",
+  "corporate_hq": "Overland Park, Kansas",
+  "status": "Proposed",
+  "capacity_mw": 42.5,
+  "capacity_source": "datacenter.fyi (secondary aggregator; unverified against primary utility/township filing)",
+  "location": {
+    "state": "NJ",
+    "county": "Middlesex",
+    "city": "Piscataway",
+    "power_market": "PJM",
+    "utility": "Public Service Electric & Gas (PSE&G)"
+  },
+  "related_operational_facility": {
+    "facility_name": "QTS Piscataway 1",
+    "status": "Operational",
+    "capacity_mw": 65,
+    "site_size_acres": 38,
+    "acquisition": {
+      "acquired_from": "DuPont Fabros Technology",
+      "acquisition_price_usd": 125000000,
+      "acquisition_year": 2016
+    }
+  },
+  "record_gap_flag": {
+    "description": "42.5 MW proposed record does not currently appear on Cleanview's own public tracker, which lists only the operational 65 MW facility at this site.",
+    "verification_needed": [
+      "PSE&G interconnection / service filings",
+      "Middlesex County or Piscataway Township planning department records"
+    ]
+  },
+  "local_permitting_precedent": {
+    "note": "Different QTS NJ site (East Windsor Township), same developer, same 'second building at existing campus' pattern -- included as an analogous case, not the same project.",
+    "township": "East Windsor Township, NJ",
+    "outcome": "Planning Board vote postponed to a third hearing after public testimony could not be completed in one session",
+    "developer_concessions_offered": {
+      "annual_tax_revenue_usd": 2000000,
+      "affordable_housing_trust_contribution_usd": 300000
+    },
+    "primary_resident_concern": "Potential increase in local utility bills",
+    "source": "DataCenterDynamics reporting, citing TAPinto local coverage"
+  },
+  "financing_context": {
+    "announcement_date": "2026-04-10",
+    "instrument": "10-year bond marketed as investment-grade green debt",
+    "total_package_usd": 4600000000,
+    "credit_rating": "Baa2 (Moody's)",
+    "arrangers": ["JPMorgan", "Goldman Sachs", "Wells Fargo", "SMBC Nikko"],
+    "stated_use_of_proceeds": "Refinancing credit facilities tied to QTS's Fayetteville, GA AI campus, and general corporate purposes",
+    "green_label_basis": "QTS Green Finance Framework (Sustainalytics-reviewed, ICMA Green Bond/Green Loan Principles alignment) tied to building-level efficiency features (e.g. zero-water 'Freedom' cooling design), not to a reduction in facility electricity demand",
+    "flagged_tension": "Gap between 'green' financing label (efficiency-based) and the facility's function as large net-new electricity load is a factual point that could surface in future local planning board opposition, particularly given pending NJ 'large load' ratepayer-protection legislation",
+    "sources": ["Moody's rating commentary via DataCenterDynamics", "Bloomberg (reported via DCD, Hoodline)", "QTS Green Finance Framework Second-Party Opinion, Sustainalytics 2023"]
+  },
+  "verification_status": "Sample research record -- built from secondary/aggregator sources (datacenter.fyi, DataCenterDynamics, Baxtel) and one primary document (QTS Green Finance Framework SPO). Not yet cross-checked against PSE&G or Piscataway Township primary filings.",
+  "compiled_date": "2026-07-14"
+}
