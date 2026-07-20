@@ -37,7 +37,8 @@ QTS has a documented pattern of local planning board friction when proposing sec
 
 QTS announced in April 2026 that it was marketing a **$4.6B financing package**, beginning with a 10-year bond marketed as **investment-grade green debt** (Moody's Baa2 rating; arranged by JPMorgan, Goldman Sachs, Wells Fargo, and SMBC Nikko).
 
-- **Stated use of proceeds** (per Moody's and Bloomberg reporting): refinancing credit facilities tied to QTS's Fayetteville, GA AI campus, and general corporate purposes — not a discrete incremental environmental project.
+- **Stated use of proceeds** (per Moody's and Bloomberg reporting): refinancing credit facilities tied to QTS's Fayetteville, GA AI campus, and general corporate purposes. The wording and details indicate a different use of proceeds than would be implied by the title of the marketing label. 
+- 
 - **Green label basis**: QTS's Green Finance Framework, reviewed by Sustainalytics and aligned with ICMA Green Bond/Green Loan Principles, ties eligibility to building-level efficiency features (e.g., QTS's "Freedom" zero-water cooling design), rather than to a reduction in the facility's overall electricity demand.
 
 **Why this matters for the enrichment record:** the gap between "green bond" as a financing label and "large net-new load facility" as the physical reality is a specific, factual point — not a characterization — that community opposition in future planning board hearings (for Piscataway or elsewhere) could reasonably raise, particularly in a state where the legislature is already advancing "large load" tariff bills aimed at protecting ratepayers from data center-driven cost increases. Flagging this as a live regulatory/community tension point relevant to project timeline and risk, not as a claim about QTS's intent.
