@@ -13,8 +13,8 @@ I made this sample of research work to demonstrate the kind of project-level enr
 
 ## Contents
 
-- [`research/qts-piscataway-enrichment.md`](research/qts-piscataway-enrichment.md) — full narrative writeup with sourcing
-- [`data/qts-piscataway.json`](data/qts-piscataway.json) — structured record of the same findings
+- [`research/qts-piscataway-enrichment.md`](qts-piscataway.json) — full narrative writeup with sourcing
+- [`data/qts-piscataway.json`](qts-piscataway-enrichment.md) — structured record of the same findings
 
 ## Methodology note
 
